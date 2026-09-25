@@ -1,0 +1,19 @@
+# runtime / generated
+last_region.txt
+last_run.txt
+*.mp4
+*.log
+
+# python
+__pycache__/
+*.pyc
+
+# local ffmpeg drop-in (do not commit binaries)
+ffmpeg/
+python/
+
+# editors / os
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
